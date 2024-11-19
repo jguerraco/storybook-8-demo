@@ -1,0 +1,11 @@
+.default {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

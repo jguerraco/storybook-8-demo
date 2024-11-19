@@ -1,4 +1,4 @@
-import Search from "@/components/Molecules/Search/Search";
+import Search from "../../Molecules/Search/Search";
 import Styles from "./Header.module.css";
 
 const Header = () => {
