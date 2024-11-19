@@ -1,5 +1,5 @@
 import Search from "@/components/Molecules/Search/Search";
-import Styles from "./Header.module.scss";
+import Styles from "./Header.module.css";
 
 const Header = () => {
   return (
