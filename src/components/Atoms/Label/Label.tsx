@@ -1,5 +1,5 @@
 import React from "react";
-import Styles from "./Label.module.scss";
+import Styles from "./Label.module.css";
 
 interface LabelProps {
   htmlFor?: string;
